@@ -1,0 +1,56 @@
+.wrapper{
+	margin: 0;
+	padding: 0;
+	width:100%;
+}
+.main_content{
+	margin:0 auto;
+	width: 960px;
+}
+.error{
+	color:crimson;
+	font-size:18px;
+}
+.success{
+	color:green;
+	font-size: 18px;
+}
+table{
+	width:80%;
+}
+th{
+	padding: 10px;
+	box-sizing: border-box;
+	background: gray;
+}
+th,td{
+	height: 30%;
+	text-align: center;
+	border:1px solid #ddd;
+
+}
+.show_data{
+  margin-top: 50px;
+}
+.show_data h2{
+	text-align: center;
+	color:#7BB834;
+	margin-left: -130px;
+}
+.upload_image{
+	margin:30px;
+	margin-top:60px;
+}
+input[type=submit]{
+	padding: 4px 12px;
+	font-size: 16px;
+	box-sizing: border-box;
+}
+input[type=file]{
+	padding: 10px 10px;
+	font-size: 14px;
+	box-sizing: border-box;
+}
+.image{
+	font-size:16px;
+}
